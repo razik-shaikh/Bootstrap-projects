@@ -1,0 +1,6 @@
+Bootstrap:
+Bootstrap is a collection of pre-styled CSS classes, JavaScript components, and a responsive grid system. It helps you:
+
+* Create responsive designs that adapt to different screen sizes.
+* Use pre-designed components like buttons, forms, modals, and navbars.
+* Save time by not starting your CSS from scratch.
